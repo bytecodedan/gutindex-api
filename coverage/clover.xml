@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1573277056849" clover="3.2.0">
+  <project timestamp="1573277056849" name="All files">
+    <metrics statements="31" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="5" elements="41" coveredelements="27" complexity="0" loc="31" ncloc="31" packages="1" files="1" classes="1"/>
+    <file name="ds.js" path="/Users/dan/Code/JS/Node/gutenberg/src/ds.js">
+      <metrics statements="31" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="5"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="23" count="5832" type="stmt"/>
+      <line num="24" count="5831" type="stmt"/>
+      <line num="25" count="3760" type="stmt"/>
+      <line num="27" count="1423" type="stmt"/>
+      <line num="28" count="1423" type="stmt"/>
+      <line num="29" count="1423" type="stmt"/>
+      <line num="30" count="1423" type="stmt"/>
+      <line num="31" count="1423" type="stmt"/>
+      <line num="32" count="1423" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="40" count="0" type="stmt"/>
+      <line num="50" count="0" type="stmt"/>
+      <line num="51" count="0" type="stmt"/>
+      <line num="52" count="0" type="stmt"/>
+      <line num="54" count="0" type="stmt"/>
+      <line num="62" count="0" type="stmt"/>
+      <line num="63" count="0" type="stmt"/>
+      <line num="64" count="0" type="stmt"/>
+      <line num="66" count="0" type="stmt"/>
+      <line num="70" count="1" type="stmt"/>
+      <line num="71" count="1" type="stmt"/>
+      <line num="72" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
