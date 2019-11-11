@@ -6,38 +6,26 @@ Project Gutenberg provides listings of the ebooks added to their project in a nu
 
 ## API
 
-Fetch all authors
-```
+```bash
+# Fetch all authors
 /authors
-```
 
-Fetch authers by name search
-```
+# Fetch authers by name search
 /authors?byName={name}
-```
 
-Fetch all books
-```
+# Fetch all books
 /books
-```
 
-Fetch books by title search
-```
+# Fetch books by title search
 /books?byTitle={title}
-```
 
-Fetch books by name search
-```
+# Fetch books by name search
 /books?byName={name}
-```
 
-Fetch books by name and title search
-```
+#Fetch books by name and title search
 /books?byName={name}&byTitle={title}
-```
 
-Fetch book by Id
-```
+# Fetch book by Id
 /books/{id}
 ```
 
@@ -49,7 +37,7 @@ Fetch book by Id
     ```
     cd path/to/gutindex-api; npm install
     ```
-    
+
 3. Start your app
     
     ```
