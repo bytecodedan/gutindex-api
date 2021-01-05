@@ -11,7 +11,7 @@
   "author": "Daniel Martin <dlmartin81@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "npm": "^6.13.0"
   },
